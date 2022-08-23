@@ -3,8 +3,6 @@
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> Table of Contents</h2>
 <!-- <img src="images/histopathology.gif" align="left" width="300px" height="230px"> -->
-<details open="open">
-  <summary>Table of Contents</summary>
   <ol>
     <li><a href="#overview"> ➤ Overview </a></li>
     <li><a href="#prerequisites"> ➤ Prerequisites </a></li>
@@ -18,7 +16,6 @@
     <li><a href="#reference"> ➤ Reference </a></li>
     <li><a href="#credits"> ➤ Credits </a></li>
   </ol>
-</details>
 
 <!-- OVERVIEW -->
 <h2 id="overview"> Overview</h2>
