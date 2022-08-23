@@ -1,5 +1,7 @@
 <h1 align="left"> Image-Panorama-Stitching </h1>
 
+
+
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> Table of Contents</h2>
   <ol>
@@ -16,14 +18,10 @@
     <li><a href="#credits"> Credits </a></li>
   </ol>
 
+<!-- <img src="images/animation.gif" align="left" width="99%" height="150px"> -->
+
 <!-- OVERVIEW -->
 <h2 id="overview"> Overview</h2>
-
-
-<p align="center"> 
-<img src="images/animation.gif" align="left" width="300px" height="230px">
-</p> 
-
 
 <p align="justify"> 
 The main objective of this project is to detect discriminating features in an image and find the best matching features in other images. Because features should be reasonably invariant to translation, rotation, and illumination.
