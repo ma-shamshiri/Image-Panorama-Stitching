@@ -1,11 +1,12 @@
 <h1 align="left"> Image-Panorama-Stitching </h1>
 
-
+<p align="justify"> 
+The main objective of this project is to detect discriminating features in an image and find the best matching features in other images. Because features should be reasonably invariant to translation, rotation, and illumination.
+</p>
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> Table of Contents</h2>
   <ol>
-    <li><a href="#overview"> Overview </a></li>
     <li><a href="#prerequisites"> Prerequisites </a></li>
     <li><a href="#DesignFeatureDetection"> Design a Feature Detection </a></li>
       <ul>
@@ -19,13 +20,6 @@
   </ol>
 
 <!-- <img src="images/animation.gif" align="left" width="99%" height="150px"> -->
-
-<!-- OVERVIEW -->
-<h2 id="overview"> Overview</h2>
-
-<p align="justify"> 
-The main objective of this project is to detect discriminating features in an image and find the best matching features in other images. Because features should be reasonably invariant to translation, rotation, and illumination.
-</p>
 
 <!-- PREREQUISITES -->
 <h2 id="prerequisites">Prerequisites</h2>
