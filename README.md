@@ -4,17 +4,17 @@
 <h2 id="table-of-contents"> Table of Contents</h2>
 <!-- <img src="images/histopathology.gif" align="left" width="300px" height="230px"> -->
   <ol>
-    <li><a href="#overview"> ➤ Overview </a></li>
-    <li><a href="#prerequisites"> ➤ Prerequisites </a></li>
-    <li><a href="#DesignFeatureDetection"> ➤ Design a Feature Detection </a></li>
+    <li><a href="#overview"> Overview </a></li>
+    <li><a href="#prerequisites"> Prerequisites </a></li>
+    <li><a href="#DesignFeatureDetection"> Design a Feature Detection </a></li>
       <ul>
         <li><a href="#FeatureDetection"> Feature Detection </a></li>
         <li><a href="#FeatureDescription"> Feature Description </a></li>
         <li><a href="#FeatureMatching"> Feature Matching </a></li>
       </ul>
-    <li><a href="#results"> ➤ Results </a></li>
-    <li><a href="#reference"> ➤ Reference </a></li>
-    <li><a href="#credits"> ➤ Credits </a></li>
+    <li><a href="#results"> Results </a></li>
+    <li><a href="#reference"> Reference </a></li>
+    <li><a href="#credits"> Credits </a></li>
   </ol>
 
 <!-- OVERVIEW -->
