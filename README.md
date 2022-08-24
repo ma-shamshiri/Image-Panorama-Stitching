@@ -99,12 +99,15 @@ Now that we have detected and described the features, the next step is to match 
 
 <h3 id="case1"> Case 1 </h3>
 <p align="center"> 
-  <img src="images/CombinedImage.jpg" alt="CombinedImage" height="99%" width="99%">
+  <img src="images/SeparateImages.jpg" alt="Separate Images" height="99%" width="99%">
+</p>
+<p align="center"> 
+  <img src="images/PanoramaImage1.jpg" alt="Panorama Image1" height="99%" width="99%">
 </p>
 
 <h3 id="case2"> Case 2 </h3>
 <p align="center"> 
-  <img src="images/PanoramaImage2.png" alt="CombinedImage" height="99%" width="99%">
+  <img src="images/PanoramaImage2.png" alt="Panorama Image2" height="99%" width="99%">
 </p>
 
 <!-- REFERENCES -->
